@@ -17,8 +17,6 @@ public class main {
 		ArrayList<String> id = new ArrayList<String>();
 		String key = "";
 		int options = 0;
-		System.out.println("testing");
-		System.out.println("more testing");
 		for (int i = 0; i < num ; i++) {
 			int type = randomInt(0, symb);
 			if (type == 0) {
